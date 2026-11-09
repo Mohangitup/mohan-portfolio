@@ -1,4 +1,3 @@
-
 # Mohan Kumar C. | Developer Portfolio
 
 Welcome to my personal developer portfolio! I'm Mohan Kumar C., a final-year Computer Science Engineering student graduating in 2027.
